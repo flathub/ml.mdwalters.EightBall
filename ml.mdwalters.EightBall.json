@@ -32,6 +32,10 @@
                     "type": "git",
                     "url": "https://github.com/mdwalters/eight-ball.git",
                     "tag": "1.5.4"
+                },
+                {
+                    "type": "patch",
+                    "path": "fix-appdata.patch"
                 }
             ]
         }
