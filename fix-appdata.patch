@@ -1,0 +1,25 @@
+From 449eea4b940ee1aebc7edc8eb2326c18db28271f Mon Sep 17 00:00:00 2001
+From: Sabri Ünal <yakushabb@gmail.com>
+Date: Tue, 6 Aug 2024 15:07:18 +0300
+Subject: [PATCH] Fix missing screenshot URL
+
+---
+ data/ml.mdwalters.EightBall.appdata.xml.in | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/data/ml.mdwalters.EightBall.appdata.xml.in b/data/ml.mdwalters.EightBall.appdata.xml.in
+index 926bcbc..6066844 100644
+--- a/data/ml.mdwalters.EightBall.appdata.xml.in
++++ b/data/ml.mdwalters.EightBall.appdata.xml.in
+@@ -18,7 +18,7 @@
+     <url type="bugtracker">https://github.com/mdwalters/eight-ball/issues</url>
+     <screenshots>
+         <screenshot type="default">
+-            <image type="source">https://files.mdwalters.ml/eight-ball-screenshot.png</image>
++            <image type="source">https://i.imgur.com/3xV8kdw.png</image>
+         </screenshot>
+     </screenshots>
+     <releases>
+--
+libgit2 1.7.2
+
